@@ -24,7 +24,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
-    noise_levels = ['00', '02']
+    noise_levels = ['00','01','02','03','04','05','06']
 
     for lev in noise_levels:
         # save noisy data at each noise level
