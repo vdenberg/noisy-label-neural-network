@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/esthervandenberg/MA/UdS/Thesis/NoisyLabelNeuralNetwork/Models/02after.ckpt"
+all_model_checkpoint_paths: "/Users/esthervandenberg/MA/UdS/Thesis/NoisyLabelNeuralNetwork/Models/00after.ckpt"
+all_model_checkpoint_paths: "/Users/esthervandenberg/MA/UdS/Thesis/NoisyLabelNeuralNetwork/Models/02after.ckpt"
